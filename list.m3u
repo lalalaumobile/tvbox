@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", 翡翠台
+https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="2", 無綫新聞台
+http://live.cooltv.top/tv/tvb.php?id=0
+#EXTINF:0 type="stream" channelId="-1", Now新聞台
+https://z88.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVB Plus
+https://z88.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVB娱乐新闻台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVB直播台
+https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
