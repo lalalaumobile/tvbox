@@ -1,10 +1,14 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", 翡翠台
-https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" shift="2", 無綫新聞台
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:0 type="stream" channelId="-1", Now新聞台
 https://z88.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", HOY 78 資訊臺
+https://z88.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", 翡翠台
+https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", HOY 77
+https://z88.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVB Plus
 https://z88.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVB娱乐新闻台
