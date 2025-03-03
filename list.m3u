@@ -1,3 +1,3 @@
-#EXTM3U
+#EXTM3U tvg-url="https://epg.pw/api/epg.xml"
 #EXTINF:-1 tvg-name="HOY TV 77" tvg-id="368903" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="新聞",Hoy tv
-https://stream1.freetv.fun/hoy-tv-2.ctv tvg-url="https://epg.pw/api/epg.xml?channel_id=368903"
+https://stream1.freetv.fun/hoy-tv-2.ctv
