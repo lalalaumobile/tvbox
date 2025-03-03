@@ -12,3 +12,5 @@ https://stream1.freetv.fun/nowbao-gu-xing-ying-1.m3u8
 https://stream1.freetv.fun/tvbsxin-wen-2.ctv
 #EXTINF:-1 tvg-name="千禧經典台" tvg-id="368325" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723011504142807_68.png" group-title="電影",[HD]tvb千禧经典
 https://stream1.freetv.fun/tvbqian-xi-jing-dian-2.ctv
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",[BD]翡翠[geo-blocked]
+https://stream1.freetv.fun/fei-cui-14.ctv
