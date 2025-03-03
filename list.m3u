@@ -1,5 +1,5 @@
 #EXTM3U tvg-url="https://epg.pw/xmltv/epg_HK.xml"
-#EXTINF:-1 tvg-name="HOY TV 77" tvg-id="368903" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="新聞",HOY TV
+#EXTINF:-1 tvg-name="HOY TV 77" tvg-id="368903" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="新聞",HOYtv 77
 https://stream1.freetv.fun/hoy-tv-2.ctv
 #EXTINF:-1 tvg-name="ViuTV HD" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Entertainment",Viutv
 https://stream1.freetv.fun/44fe1ef1166499f23d6012cb76b8bbaddb2653a401919ee25af38fd8458329e9.ctv
