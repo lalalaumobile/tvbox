@@ -21,7 +21,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
 #EXTINF:-1 tvg-name="NOW新闻 2" tvg-id="368903" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="新聞",NOW新闻 2
-https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
+https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
 #EXTINF:-1 tvg-name="HOY TV 78 2" tvg-id="368903" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="新聞",HOYtv 78 2
 https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
 
