@@ -1,8 +1,8 @@
 #EXTM3U tvg-url="https://epg.pw/xmltv/epg_HK.xml"
 
-#EXTINF:-1 tvg-name="无线新闻台(北美) 3" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",无线新闻台(北美)	3
-ttp://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 tvg-name="無線新聞台 3" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 3
+#EXTINF:-1 tvg-name="無線新聞台(北美) 3" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無線新聞台(北美)h	3
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 tvg-name="無線新聞台 3" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 3
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台 3" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",翡翠 3
 http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
