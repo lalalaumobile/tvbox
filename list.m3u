@@ -10,7 +10,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="NOW新闻 2" tvg-id="410344" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30" group-title="新聞",NOW新闻 2
-https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
+https://vp2p2s.f666666.xyz/43002/index.m3u8?auth_key=1741180695-1376262838-0-4fb9c971e6d07d91b0e466dde8106b47
+
 #EXTINF:-1 tvg-name="HOY TV 78 2" tvg-id="368898" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="新聞",HOYtv 78 2
 https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-name="ViuTV 4" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Entertainment",Viutv 4
