@@ -12,12 +12,12 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-name="NOW新闻 2" tvg-id="410344" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30" group-title="新聞",NOW新闻 2
 https://vp2p2s.f666666.xyz/43002/index.m3u8?auth_key=1741180704-1199950059-0-984fa1b8c866ff6d38304c6f315b5136
 
-#EXTINF:-1 tvg-name="HOY TV 78 2" tvg-id="368898" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="新聞",HOYtv 78 2
+#EXTINF:-1 tvg-name="HOY資訊台 2" tvg-id="368898" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="新聞",HOY資訊台 2
 https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-name="ViuTV 4" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Entertainment",Viutv 4
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 
-#EXTINF:-1 tvg-name="HOY TV 78 1" tvg-id="368898" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="新聞",HOYtv 78 1
+#EXTINF:-1 tvg-name="HOY資訊台 1" tvg-id="368898" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="新聞",HOY資訊台 1
 https://stream1.freetv.fun/7619fc5c1fe0701ec03fad187339ba5f85454f26f778a77d88e0c07c9b0fbac9.ctv
 
 #EXTINF:-1 tvg-name="無線新聞台 4" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 4
