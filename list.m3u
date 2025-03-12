@@ -33,6 +33,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
 #EXTINF:-1 tvg-name="無線新聞台 1" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 1
 https://stream1.freetv.fun/wu-xian-xin-wen-4.ctv
+#EXTINF:-1 tvg-name="無線新聞台(北美) 1" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無線新聞台(北美) 1
+https://stream1.freetv.fun/9bc7f3dc585f5d76fcc3b66149f2c792f4d439953e464450b638291fdb9b4a6d.m3u8
+
 #EXTINF:-1 tvg-name="TVBS新聞臺 1" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312220208325041_97.png" group-title="新聞",TVBS新聞 1
 https://stream1.freetv.fun/tvbsxin-wen-2.ctv
 #EXTINF:-1 tvg-name="HOY TV 77 1" tvg-id="368903" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="新聞",HOYtv 77 1
