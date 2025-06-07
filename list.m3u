@@ -12,13 +12,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-name="HOY資訊台 2" tvg-id="368898" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="新聞",HOY資訊台 1
 https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
-#EXTINF:-1 tvg-name="NOW新闻 2" tvg-id="410344" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30" group-title="新聞",NOW新闻 1
-https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",翡翠 1
 http://php.jdshipin.com/smt.php?id=Tvbjade
 
 
-
+#EXTINF:-1 tvg-name="NOW新闻 2" tvg-id="410344" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30" group-title="新聞",NOW新闻 1
+https://345iptv.com/?act=play&token=d30af29dc05a726eb3277d2dc59074b0&tid=gt&id=17
 
 #EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 2
 http://php.jdshipin.com/smt.php?id=inews_twn
