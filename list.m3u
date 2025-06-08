@@ -25,3 +25,7 @@ http://php.jdshipin.com/smt.php?id=Tvbjade
 
 #EXTINF:-1 tvg-name="ViuTV 1" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Entertainment",Viutv 1
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+
+
+#EXTINF:-1 tvg-name="ViuTV 1" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Entertainment",Viutv 1
+https://vp2p2s.my6868.cc/43002/hls-seg-2732042.ts?auth_key=1749412358-246077305-0-2f5eb641f3b6e5e52df37ca58aa13e03
