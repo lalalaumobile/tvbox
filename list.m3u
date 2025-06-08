@@ -13,9 +13,10 @@ http://cdn9.163189.xyz/smt3.1.1.php?id=j2_twn
 
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•港澳「限制」", 翡翠台 1
-https://yang-1989.eu.org/live/TVB-Jade
+https://ttvb.eu.org/stream/tvb/null/master.m3u8?u=yang&p=c5535845e0f5522c02a073c3f0e3babc1e374292609ebbfd51884dd5b5a291cc
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.iill.top/logo/无线新闻.png" group-title="•港澳「限制」",無綫新聞台 3
-https://yang-1989.eu.org/live/TVB-News-Channel
+https://ttvb.eu.org/stream/tvb/null-1/master.m3u8?u=yang&p=c5535845e0f5522c02a073c3f0e3babc1e374292609ebbfd51884dd5b5a291cc
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•港澳「限制」", 翡翠台 2
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="無線新聞台" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 4
