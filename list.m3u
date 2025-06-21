@@ -1,9 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml"
 
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 1
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 2
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 4
+http://fr-us8.jdiptv.cc/live/inews.m3u8
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://epg.v1.mk/logo/NOW新闻.png" group-title="🇭🇰香港频道📡",NOW新闻
 http://a.ru8.dpdns.org/now/332/master.m3u8
 #EXTINF:-1 tvg-name="HOY資訊台" tvg-id="368898" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="新聞",HOY資訊台 1
@@ -25,20 +23,20 @@ http://a.ru8.dpdns.org/now/630/master.m3u8
 
 
 
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 3
-https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 4
-http://fr-us8.jdiptv.cc/live/inews.m3u8
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",翡翠台 2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-name="TVB Plus 1" tvg-id="368361" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png" group-title="綜合",TVB Plus 2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",翡翠台 3
 http://php.jdshipin.com/smt.php?id=Tvbjade
-
 #EXTINF:-1 tvg-name="ViuTV 1" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Entertainment",Viutv 1
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-
-
 #EXTINF:-1 tvg-name="ViuTV 1" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Entertainment",Viutv 1
 https://vp2p2s.my6868.cc/43002/hls-seg-2732042.ts?auth_key=1749412358-246077305-0-2f5eb641f3b6e5e52df37ca58aa13e03
+#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 1
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 2
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",無綫新聞 3
+https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
