@@ -9,7 +9,7 @@ http://a.ru8.dpdns.org/now/332/master.m3u8
 http://cdn9.163189.xyz/smt3.1.1.php?id=j2_twn
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="Active", 翡翠台 1
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-#EXTINF:-1 tvg-id="410395" tvg-name="NOW体育" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="Active",NOW体育
+#EXTINF:-1 tvg-id="410395" tvg-name="NOW体育" tvg-logo="https://epg.pw/media/images/epg/2025/01/29/20250129173707250196_66" group-title="Active",NOW体育 Prime
 http://a.ru8.dpdns.org/now/630/master.m3u8
 #EXTINF:-1 tvg-name="ViuTV 1" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Active",Viutv 1
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
