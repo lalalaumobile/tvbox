@@ -31,7 +31,9 @@ https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="Backup",华丽翡翠台 1
 http://php.jdshipin.com/smt.php?id=Tvbjade
 
-#EXTINF:-1 tvg-name="HOY資訊台" tvg-id="368898" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="Active",HOY資訊台 1
+#EXTINF:-1 tvg-name="HOY資訊台" tvg-id="368898" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="Active",HOY資訊台77
+http://67.220.71.199:2347/livehttpplay?channel_id=20152
+
 
 
 
