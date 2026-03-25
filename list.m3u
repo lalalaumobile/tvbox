@@ -9,9 +9,8 @@ http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png" group-title="Active",TVB Plus 1
 http://cdn9.163189.xyz/smt3.1.1.php?id=j2_twn
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="Active", 翡翠台 1
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="Active", 翡翠台 4k
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+https://o11.163189.xyz/stream/tvb/fct/
+
 
 
 #EXTINF:-1 tvg-name="ViuTV 1" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Active",Viutv 1
