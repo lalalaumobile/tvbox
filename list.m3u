@@ -1,22 +1,21 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml"
 
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞 1
+#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞
 https://t.freetv.fun/live/wu-xian-xin-wen-1.m3u8
+#EXTINF:-1 tvg-name="HOY TV 78" tvg-id="368903" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 78
+http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
 #EXTINF:-1 tvg-id="410344" tvg-name="NOW新闻" tvg-logo="https://epg.v1.mk/logo/NOW新闻.png" group-title="Active",NOW新闻
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png" group-title="Active",TVB Plus 1
+
+#EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png" group-title="Active",TVB Plus
 http://cdn9.163189.xyz/smt3.1.1.php?id=j2_twn
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="Active", 翡翠台 1
 https://o11.163189.xyz/stream/tvb/fct/
-
-
-
-#EXTINF:-1 tvg-name="ViuTV 1" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Active",Viutv 1
+#EXTINF:-1 tvg-name="ViuTV" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Active",Viutv 
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="HOY TV 77" tvg-id="368903" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-name="HOY TV 77" tvg-id="368903" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 78
-http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
+
 
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="Backup",翡翠台 2
@@ -28,8 +27,6 @@ https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="Backup",华丽翡翠台 1
 http://php.jdshipin.com/smt.php?id=Tvbjade
 
-#EXTINF:-1 tvg-name="HOY資訊台" tvg-id="368898" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="Active",HOY資訊台77
-http://67.220.71.199:2347/livehttpplay?channel_id=20152
 
 
 
