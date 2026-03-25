@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml, https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz"
 
 #EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞
 https://t.freetv.fun/live/wu-xian-xin-wen-1.m3u8
