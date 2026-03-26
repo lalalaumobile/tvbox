@@ -14,7 +14,7 @@ http://74.91.26.218:82/live/j2.m3u8
 https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="ViuTV" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Active",Viutv 
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 tvg-name="HOY TV 77" tvg-id="HOY TV" tvg-shift="8" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 77-2
+#EXTINF:-1 tvg-name="HOY TV 77" tvg-id="HOY TV" tvg-shift="8" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
 
