@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz,https://epg.pw/xmltv/epg_HK.xml.gz"
 
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="123" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞
+#EXTINF:-1 tvg-name="無線新聞台" tvg-id="TVBNewsChannel.hk" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞
 http://74.91.26.218:82/live/inews.m3u8
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="123" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞 1
+#EXTINF:-1 tvg-name="無線新聞台" tvg-id="TVBNewsChannel.hk" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞 1
 https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 
 #EXTINF:-1 tvg-name="HOY78" tvg-id="451" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 78
 http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
-#EXTINF:-1 tvg-id="410344" tvg-name="NOW新闻" tvg-logo="https://epg.v1.mk/logo/NOW新闻.png" group-title="Active",NOW新闻
+#EXTINF:-1 tvg-id="NowNEWS.hk" tvg-name="NOW新闻" tvg-logo="https://epg.v1.mk/logo/NOW新闻.png" group-title="Active",NOW新闻
 http://cdn.163189.xyz/163189/now
 
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="223" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png" group-title="Active",TVB Plus
