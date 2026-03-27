@@ -17,12 +17,7 @@ https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="ViuTV" tvg-id="410274" tvg-shift="+8" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Active",Viutv 
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-name="HOY TV 77" tvg-id="450" tvg-shift="8" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 77-2
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
-
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="Backup",华丽翡翠台 1
-http://php.jdshipin.com/smt.php?id=Tvbjade
-
+https://cdn11.163189.xyz/163189/c88d2a936daf88fb
 
 
 
