@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz,https://epg.pw/xmltv/epg_HK.xml"
 
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="410274" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞
+#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞
 http://74.91.26.218:82/live/inews.m3u8
 #EXTINF:-1 tvg-name="HOY78" tvg-id="451" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 78
 http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
