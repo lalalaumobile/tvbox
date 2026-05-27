@@ -1,9 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz,https://epg.pw/api/epg.xml?channel_id=410274,https://epg.pw/api/epg.xml?channel_id=368359,https://epg.pw/api/epg.xml?channel_id=410344"
 
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞
+#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞 1
 https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw&utm_source=copilot.com
 
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞 1
+#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞 2
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+
+#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368359" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="Active",無綫新聞 3
 http://rihou.cc:555/tv/[Pd]无线新闻
 
 #EXTINF:-1 tvg-name="HOY78" tvg-id="451" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 78
