@@ -34,29 +34,8 @@ https://cdn11.163189.xyz/163189/c88d2a936daf88fb
 ############### CAZE TV (BRAZIL) ###############
 
 #EXTINF:-1,Caze TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1,Caze TV B
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-############### ARGENTINA (TyC + DSports) ###############
-
-#EXTINF:-1,TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1,TyC Sports B
-http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
-
-############### BEIN SPORTS (WC RIGHTS HOLDER) ###############
-
-#EXTINF:-1,beIN Sports 2 Serbia
-http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1,beIN Sports 4
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1,beIN Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+http://82.156.243.185:33389/fwc.m3u
 
 
 
