@@ -13,7 +13,8 @@ http://rihou.cc:555/tv/[Pd]无线新闻
 http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 
 #EXTINF:-1 tvg-name="HOY78" tvg-id="451" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 78
-http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
+https://stream1.freetv.fun/d131ddf4da2e19800696e9c1b73383b83493d2604fe64afcf79555d98c74529c.m3u8
+
 #EXTINF:-1 tvg-id="410344" tvg-name="NOW新闻" tvg-logo="https://epg.v1.mk/logo/NOW新闻.png" group-title="Active",NOW新闻
 http://cdn.163189.xyz/163189/now
 
@@ -25,11 +26,16 @@ https://o11.163189.xyz/stream/tvb/fct/
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 
 
+
+
 #EXTINF:-1 tvg-name="HOY TV 77" tvg-id="450" tvg-shift="8" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
 #EXTINF:-1 tvg-name="HOY TV 706" tvg-id="" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 706 生活台
 https://cdn11.163189.xyz/163189/c88d2a936daf88fb
+
+#EXTINF:-1 tvg-name="HOY78" tvg-id="451" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="Active",HOYtv 78
+http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
 
 #EXTINF:-1 tvg-name="Testing"
 http://82.156.243.185:33389/fwc.m3u
